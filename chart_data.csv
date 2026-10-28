@@ -1,0 +1,5 @@
+﻿graph,place,data_period,institution,indicator,group,value,unit,derivation,source
+1,Монгол,2022,ҮСХ; Дэлхийн банк,Үндэсний ядуурлын босготой харьцуулсан хэрэглээ,Босгоос доогуур,27.1,хүн амын хувь,тайлагнасан,https://www.1212.mn
+1,Монгол,2022,ҮСХ; Дэлхийн банк,Үндэсний ядуурлын босготой харьцуулсан хэрэглээ,Бусад,72.9,хүн амын хувь,100 - 27.1,https://www.1212.mn
+2,Финланд,туршилт 2017–2018; асуумж 2018; тайлан 2020,Kela; хамтран ажилласан судлаачид,Амьдралын сэтгэл ханамж,Дэмжлэг авсан бүлэг,7.3,0–10 шатлалын дундаж оноо,асуумжид хариулсан хүмүүс,https://www.kela.fi/news/results-of-the-basic-income-experiment-small-employment-effects-better-perceived-economic-security-and-mental-wellbeing
+2,Финланд,туршилт 2017–2018; асуумж 2018; тайлан 2020,Kela; хамтран ажилласан судлаачид,Амьдралын сэтгэл ханамж,Харьцуулах бүлэг,6.8,0–10 шатлалын дундаж оноо,асуумжид хариулсан хүмүүс,https://www.kela.fi/news/results-of-the-basic-income-experiment-small-employment-effects-better-perceived-economic-security-and-mental-wellbeing
